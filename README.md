@@ -19,15 +19,15 @@ Welcome to DrawNPlay, a creative platform where users can unleash their artistic
 2) Socket.io
    
 -Features
-Draw Mode:
+1) Draw Mode:
 Express your creativity by drawing artwork based on given prompts or themes.
-Guess Mode:
+2) Guess Mode:
 Challenge your imagination by guessing what other participants have drawn.
-User Profiles:
+3) User Profiles:
 Create and customize your user profile to showcase your artistic journey.
-Leaderboard:
+4) Leaderboard:
 Compete with friends and the DrawNPlay community to see who can guess the most drawings.
-Interactive Chat:
+5) Interactive Chat:
 Engage with other participants through a real-time chat feature.
 
 -Contributer's
