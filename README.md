@@ -10,9 +10,8 @@ Welcome to DrawNPlay, a creative platform where users can unleash their artistic
 4) HTML
 5) CSS
 6) Javascipt
-7) React.js
-8) NodeJS
-9) Bootstrap
+7) NodeJS
+8) Bootstrap
 
 -External API's used
 1) HTML Canvas API
@@ -31,6 +30,6 @@ Compete with friends and the DrawNPlay community to see who can guess the most d
 Engage with other participants through a real-time chat feature.
 
 -Contributer's
-1) Shivam Kumar 
+1) Shivam Kumar Gupta
 2) Shipra Chandra 
 3) Pratiksha Singh 
