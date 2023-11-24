@@ -1,5 +1,5 @@
 # DrawNPlay-Dynamic-
-DrawNPlay
+
 -About
 Welcome to DrawNPlay, a creative platform where users can unleash their artistic talents by drawing, and others can enjoy the guessing game! This project is designed to bring people together through the joy of art and playful interactions.
 
